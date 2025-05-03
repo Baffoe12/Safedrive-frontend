@@ -3,7 +3,8 @@ services:
     name: safedrive-pro-backend
     env: node
     buildCommand: npm install
-    startCommand: node server.js
+    startCommand: npm start
+    rootDir: backend
     envVars:
       - key: NODE_ENV
         value: production
