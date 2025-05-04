@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 3000;
 
 // Enable CORS for all routes
 const allowedOrigins = [
-  'https://e38f-154-161-23-235.ngrok-free.appp', // Dashboard ngrok URL
+  'https://safedrive-backend-4h5k.onrender.com',
   'http://localhost:3000',
 ];
 
