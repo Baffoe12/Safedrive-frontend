@@ -1,4 +1,4 @@
-const BACKEND_URL = 'http://localhost:5000'; // Replace with your backend URL
+const BACKEND_URL = 'https://safedrive-backend-4h5k.onrender.com'; // Replace with your backend URL
 
 async function get(endpoint) {
   try {
